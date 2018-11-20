@@ -105,12 +105,12 @@ Everyone on the team needs to know that if something goes wrong, the whole team 
 
 # The Safety Net
 
-* Code reviews
-* Automated tests
-* Quality Assurance
 * Lots of good examples in the repo
 * ZERO bad examples in the repo
 * Consistent architecture
+* Code reviews
+* Automated tests
+* Quality Assurance
 
 ---
 
